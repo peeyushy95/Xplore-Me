@@ -8,7 +8,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 public class Driver{									// Driver Class for Program
 		
-	static String ROOT_FILE_PATH = "D://";   // path for finding documents
+	static String ROOT_FILE_PATH = "F://";   // path for finding documents
 	
 	
 	public static void main(String[] args) {
